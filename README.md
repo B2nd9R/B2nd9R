@@ -59,10 +59,9 @@ Here are some of the projects I've worked on:
 
 ---
 
-## 📊 GitHub Stats & Badges
+## 💻 Languages I Use
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BandarAljameely&layout=compact)
-![Bandar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BandarAljameely&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B2nd9R&layout=compact&theme=tokyonight)
 
 ---
 
