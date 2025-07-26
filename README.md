@@ -1,74 +1,77 @@
-# 👋 Hello, I'm Bandar Al Jameely
+# 👋 Hello, I'm **Bandar Al Jameely**
+
+---
 
 ## 🧠 About Me
-I'm a passionate **Cybersecurity & Cloud Security enthusiast**, and also a skilled **Full Stack Web Developer**. I build secure, scalable systems, intelligent Discord/Telegram bots, and engaging web applications.
+I am a **Full Stack Web Developer** and **Cybersecurity Student**, dedicated to merging technical excellence with visual creativity.  
+With a strong foundation in **software development**, **cyber defense**, and **cloud infrastructure**, I craft robust, scalable, and secure digital solutions.
+
+> “Engineering secure systems is not just a task—it’s an art.”  
 
 ---
 
-## 🛠️ My Core Skills
+## 🔧 Core Competencies
 
-- **Cybersecurity & Cloud Security**
-  - Threat Intelligence, Risk Management, Cryptography, Incident Response
-  - Social Engineering, Vulnerability Management, Threat Detection
-  - Cloud Security Focus – Working to master cloud-based infrastructures.
+### Cybersecurity & Cloud Security
+- Threat Intelligence & Risk Management  
+- Cryptography & Incident Response  
+- Vulnerability Assessment & Threat Detection  
+- Cloud Security Architecture (AWS, Azure, GCP)
 
-- **Full Stack Development**
-  - Python, JavaScript, C++, Java
-  - FastAPI, REST APIs, Git, GitHub
-  - Frontend: HTML5, CSS3, JS (DOM, Semantic Markup, Responsive Design)
-  - Backend: Python (FastAPI), SQL, Linux
-  - Tools: AOS.js, Swiper.js, Google Fonts, Font Awesome
+### Full Stack Development
+- **Back-End:** Python, FastAPI, RESTful APIs, Automation & AI integration  
+- **Front-End:** HTML5, CSS3, JavaScript (ES6+), Responsive & Semantic Design  
+- **DevOps & Deployment:** Docker, CI/CD, Render, Fly.io, Railway  
 
-- **Embedded Systems & Bots**
-  - Experience with developing embedded systems
-  - Creator of intelligent bots for Discord and Telegram
-
-- **Data & Web Analytics**
-  - Google Analytics, SEO, Schema.org
-  - Data Science Basics, Data Cleaning, Visualization, Watson Studio
+### Embedded Systems & Intelligent Bots
+- Development of embedded controllers  
+- Creation of smart Discord & Telegram bots  
 
 ---
 
-## 🚀 Projects
-Here are some of the projects I've worked on:
+## 🚀 Selected Projects
 
-- 🛡️ **CyberSentinel**  
-  A Discord Security Bot for server monitoring and automated threat response.
-
-- 🤖 **Charisma**  
-  An open-source social robot designed for interaction and embedded system integration.
-
-- 🌐 **Web Tools & Utilities**  
-  Various personal tools including password generators, security checkers, and blog enhancements.
-
-> More projects will be organized and shared soon!
+| Project | Description | Link |
+| ------- | ----------- | ---- |
+| **CyberSentinel** | Discord security bot that automates threat monitoring & response | [GitHub](https://github.com/B2nd9R/CyberSentinel) |
+| **Charisma** | Social interaction robot integrating embedded systems & AI | [GitHub](https://github.com/B2nd9R/Charisma) |
+| **Web Utilities** | Suite of tools: password generators, security checkers, blog enhancers | [GitHub](https://github.com/B2nd9R/Web-Tools) |
 
 ---
 
-## 🎯 Current Goals
-- Mastering **Cloud Security**
-- Contributing to open-source tools in **Cyber Threat Detection**
-- Expanding my knowledge in secure software architecture
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=B2nd9R&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=B2nd9R&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=B2nd9R&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-profile-trophy.vercel.app/?username=B2nd9R&theme=tokyonight" alt="Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=B2nd9R&color=blue" alt="Profile Views" />
+</p>
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect & Collaborate
 
-- [LinkedIn](https://www.linkedin.com/in/bandar-al-jameely/)
-- GitHub: [@B2nd9R](https://github.com/B2nd9R)
+- 🌐 **Website:** [bandar.codes](https://bandar.codes)  
+- 🐦 **Twitter:** [@bandar_cyber](https://x.com/bandar_cyber?s=21)  
+- 💼 **LinkedIn:** [bandar-al-jameely](https://www.linkedin.com/in/bandar-al-jameely/)  
+- 📖 **Blog:** [bandar.codes/blog.html](https://bandar.codes/blog.html)  
+- 🎥 **TikTok:** [@bandar.codes](https://www.tiktok.com/@bandar.codes?_t=ZS-8yL7NWTlgaQ&_r=1)  
 
----
-
-## 💻 Languages I Use
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B2nd9R&layout=compact&theme=tokyonight)
+[![Download My Resume](https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=readthedocs)](https://bandar.codes/resume.pdf)
 
 ---
 
 ## 🎮 Fun Fact
-
-I'm a gamer too! I enjoy exploring the intersection of **gaming and security**, and I love building tools that make digital experiences safer and smarter.
+I enjoy exploring the synergy between **gaming** and **security**, building tools that elevate digital experiences securely and creatively.
 
 ---
 
-Thanks for visiting my profile! Feel free to explore and connect 🤝
+Thank you for visiting my profile. Let's build secure, stunning digital solutions together!
